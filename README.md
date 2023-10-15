@@ -1,0 +1,2 @@
+# ArcoLinuxB-Dk Calamares configuration
+
